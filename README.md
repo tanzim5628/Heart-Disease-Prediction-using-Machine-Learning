@@ -142,7 +142,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-Nishak
+Tanzim Akash
 
 ---
 
